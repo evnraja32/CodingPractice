@@ -1,4 +1,4 @@
-package util.basic.programs.searching;
+package basic.programs.searching;
 
 import org.testng.annotations.Test;
 

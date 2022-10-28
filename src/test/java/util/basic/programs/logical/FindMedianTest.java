@@ -1,4 +1,4 @@
-package util.basic.programs.logical;
+package basic.programs.logical;
 
 import static org.testng.Assert.fail;
 

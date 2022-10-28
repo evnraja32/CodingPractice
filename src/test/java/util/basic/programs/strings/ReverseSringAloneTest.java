@@ -1,4 +1,4 @@
-package util.basic.programs.strings;
+package basic.programs.strings;
 
 import org.testng.annotations.Test;
 
