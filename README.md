@@ -1,2 +1,2 @@
-# EasyAutomation
-New framework to address automation necessities.
+# Coding Practive
+Solve challenges from different platforms
